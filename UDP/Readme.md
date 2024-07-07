@@ -6,5 +6,5 @@ gcc server.c -o s
 
 for Client
 
-gcc cleint.c -o c
+gcc client.c -o c
 ./c.out 8080
